@@ -6,6 +6,33 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Shahriar-Fardows/Code-X.git"},
+    "keywords": [
+    "dark",
+    "theme",
+    "color-theme",
+    "syntax",
+    "code",
+    "vscode",
+    "visual-studio-code",
+    "editor",
+    "text-editor",
+    "dark-theme",
+    "dark-syntax",
+    "dark-color-theme",
+    "dark-code",
+    "dark-vscode",
+    "dark-visual-studio-code",
+    "dark-editor",
+    "dark-text-editor",
+    "dark-visual-studio-code-theme",
+    "dark-visual-studio-code-color-theme",
+    "dark-visual-studio-code-syntax",
+    "dark-visual-studio-code-code",
+    "dark-visual-studio-code-editor",
+    "code x",
+    "code-x",
+    "code-x-theme"
+    ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
